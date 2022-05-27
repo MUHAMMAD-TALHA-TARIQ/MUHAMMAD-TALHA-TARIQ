@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-talha-tariq" alt="muhammad-talha-tariq" /></a> </p>
 
-- 🔭 I’m currently working on [Horxw](https://horxe.com)
+- 👨🏻‍💻 I’m currently Owner of [Horxe](https://horxe.com)
 
 - 🌱 I’m currently learning **React Js**
 
