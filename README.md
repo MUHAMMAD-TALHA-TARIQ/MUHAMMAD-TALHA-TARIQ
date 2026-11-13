@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-talha-tariq&theme=flat&no-frame=true&row=1&column=6" alt="trophies" /></a>
+  <a href="https://github.com/MUHAMMAD-TALHA-TARIQ?tab=followers"><img src="https://img.shields.io/github/followers/MUHAMMAD-TALHA-TARIQ?style=flat-square&logo=github&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/MUHAMMAD-TALHA-TARIQ?tab=repositories"><img src="https://img.shields.io/github/stars/MUHAMMAD-TALHA-TARIQ?style=flat-square&logo=github&label=Stars" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MUHAMMAD-TALHA-TARIQ&style=flat-square&color=2E5B86&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -65,13 +67,13 @@ I design, build and operate backend, cloud and generative-AI platforms for minin
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <br />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Strands_Agents-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Strands Agents" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Strands_Agents-FF9900?style=flat-square&logoColor=white" alt="Strands Agents" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <br />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -100,6 +102,9 @@ I design, build and operate backend, cloud and generative-AI platforms for minin
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-talha-tariq&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-talha-tariq&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MUHAMMAD-TALHA-TARIQ&theme=default" alt="GitHub stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MUHAMMAD-TALHA-TARIQ&theme=default" alt="Top languages by repo" height="180" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MUHAMMAD-TALHA-TARIQ&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" height="180" />
 </p>
