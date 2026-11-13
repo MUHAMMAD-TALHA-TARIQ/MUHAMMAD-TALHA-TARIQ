@@ -1,26 +1,105 @@
-<h1 align="center">Hi 👋, I'm MUHAMMAD TALHA TARIQ</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Talha Tariq</h1>
+<h3 align="center">Senior Software Engineer & AI Platform Architect (AWS) · Perth, Australia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-talha-tariq" alt="muhammad-talha-tariq" /></a> </p>
-
-- 👨🏻‍💻 I’m currently Owner of [Horxe](https://horxe.com)
-
-- 🌱 I’m currently learning **React Js**
-
-- 💬 Ask me about **Python & Django**
-
-- 📫 How to reach me **m.talha567@yahoo.com**
-
-- ⚡ Fun fact **I think, i can impress**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-talha-tariq-061929167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-tariq-061929167" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-talha-tariq-061929167"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:m.talha1.tt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/MUHAMMAD-TALHA-TARIQ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-talha-tariq&theme=flat&no-frame=true&row=1&column=6" alt="trophies" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-talha-tariq&show_icons=true&locale=en&layout=compact" alt="muhammad-talha-tariq" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-talha-tariq&show_icons=true&locale=en" alt="muhammad-talha-tariq" /></p>
+## About me
+
+I design, build and operate backend, cloud and generative-AI platforms for mining and resources clients. Over the last year my work has centred on **production LLM agent systems**: multi-agent pipelines on Strands Agents, in-house **Model Context Protocol (MCP)** servers, layered guardrails, human-in-the-loop review and the evaluation tooling that makes agents trustworthy in the enterprise.
+
+- 🏢 **Sr. Software Engineer / Solution Architect** at Horizon Digital, delivering for Fortescue, BHP, Hancock Iron Ore and Rio Tinto
+- 🤖 Currently building **multi-agent travel automation** and an **AI gateway telemetry pipeline** (S3 → Snowflake on Amazon EKS) for Fortescue
+- ☁️ 5+ years across Python, AWS, Terraform, Kubernetes and identity-first, audit-first architecture
+- 🧭 Enjoy turning fuzzy business rules into deterministic, observable, testable systems where the LLM is the safety net, not the control flow
+- 💬 Ask me about **Python, FastAPI/Django, LLM agents, MCP, AWS and Snowflake pipelines**
+- 📫 Reach me at **m.talha1.tt@gmail.com**
+
+---
+
+## What I work on
+
+| Area | Highlights |
+|---|---|
+| **AI platform & agents** | Staged, gated multi-agent pipelines (Strands Agents, Pydantic structured outputs); FastMCP and Playwright-based MCP servers; TrueFoundry AI Gateway for routing, budgets and usage telemetry; LLM-as-judge evaluation with deterministic fallback; batch test labs and outcome taxonomies |
+| **Cloud & platform** | AWS (ECS Fargate, EKS, Lambda, S3, SQS, RDS, Cognito, Secrets Manager, IAM incl. cross-account roles and EKS Pod Identity); Kubernetes via Humanitec / Score; Terraform and CloudFormation; GitHub Actions with OIDC deploys |
+| **Data & messaging** | PostgreSQL, Snowflake (COPY / MERGE, idempotent ELT), Redis, RabbitMQ, SQS, Kafka, Parquet; Power BI dashboards for AI usage and cost |
+| **Security & identity** | Entra ID SSO (OIDC, PKCE), Cognito RBAC, least-privilege IAM, append-only audit trails, secrets management, policy-as-code checks in CI |
+| **Observability** | OpenTelemetry, Grafana / Loki, CloudWatch, structured logging with correlation IDs, run and file ledgers |
+
+---
+
+## Open-source & personal projects
+
+- **[Cloud-Books](https://github.com/MUHAMMAD-TALHA-TARIQ/Cloud-Books)** · Django web platform for writers to organise books and novels into unlimited sections and sub-sections.
+- **[QR Code Generator](https://github.com/MUHAMMAD-TALHA-TARIQ/QR-Code-Generator)** · Python desktop app that generates customisable QR codes with selectable colours and PNG export.
+- **NotchOrbit** · Swift / SwiftUI macOS menu-bar app that reshapes the MacBook notch and adds live system gauges, weather, a camera panel and a ten-effect voice changer exposed as a virtual microphone for FaceTime, Teams and Zoom.
+- **Real-Time Identity Transformation** · Local, consent-gated face-transformation web app for Apple Silicon: FastAPI with WebSocket frame streaming, ONNX Runtime on CoreML, encrypted identity storage and a burned-in "AI transformed" badge on every frame.
+- **QR Code Generator API** · Serverless, load-balanced QR API on RapidAPI, served through CloudFront.
+
+---
+
+## Languages and tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <br />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <br />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Strands_Agents-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Strands Agents" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <br />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <br />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-talha-tariq&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-talha-tariq&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</p>
